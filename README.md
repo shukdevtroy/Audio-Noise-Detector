@@ -130,7 +130,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or issues, please open an issue on this GitHub repository or contact [Shukdev Datta] at [shukdevdatta@gmail.com].
+For any questions or issues, please open an issue on this GitHub repository or contact [Shukdev Datta] at [shukdevdatta@gmail.com] for UrbanSound8k dataset.
 
 ---
 
